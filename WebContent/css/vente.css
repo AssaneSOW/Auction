@@ -1,0 +1,13 @@
+@charset "UTF-8";
+.logo{
+	height:30px;
+	width:30px;
+	float:left;
+}
+.titreEtLogo{
+	font-size:20px;
+}
+.titrePage{
+	font-weight:bold;
+	font-size:20px;
+}
